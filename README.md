@@ -1,2 +1,2 @@
 # FullStackJavaDeveloper-InterviewQuestions
-Question that employers asked me during job interviews.
+Questions that employers asked me during job interviews.
